@@ -1,1 +1,6 @@
 C:\Users\Eldrie\Documents\GitHub\A.Ordenamiento\A.Ordenamiento\bin\Debug\A.Ordenamiento.exe.config
+C:\Users\Eldrie\Documents\GitHub\A.Ordenamiento\A.Ordenamiento\obj\Debug\A.Ordenamiento.csprojResolveAssemblyReference.cache
+C:\Users\Eldrie\Documents\GitHub\A.Ordenamiento\A.Ordenamiento\bin\Debug\A.Ordenamiento.exe
+C:\Users\Eldrie\Documents\GitHub\A.Ordenamiento\A.Ordenamiento\bin\Debug\A.Ordenamiento.pdb
+C:\Users\Eldrie\Documents\GitHub\A.Ordenamiento\A.Ordenamiento\obj\Debug\A.Ordenamiento.exe
+C:\Users\Eldrie\Documents\GitHub\A.Ordenamiento\A.Ordenamiento\obj\Debug\A.Ordenamiento.pdb
